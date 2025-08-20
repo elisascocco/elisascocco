@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me  
 I am a data scientist and economist with experience in consulting, logistics, and program management.  
 Driven by curiosity, I enjoy uncovering insights from complex data and applying them to real-world problems and policy challenges.  
 
