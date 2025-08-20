@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 I am a data scientist and economist with experience in consulting, logistics, and program management.  
 Driven by curiosity, I enjoy uncovering insights from complex data and applying them to real-world problems and policy challenges.  
 
-## 🎓 Education  
+## Education  
 - Master in Data Science Methodology — Barcelona School of Economics (2024–2025)  
 - Bachelor in Economics, Markets, and Finance — Università Ca' Foscari di Venezia (2017–2020)  
 
-## 💼 Open Source Contributions  
+## Open Source Contributions  
 - [Nairobi Pollution](https://github.com/dime-worldbank/nairobi-pollution) — Analyzed the short-term effects of the Nairobi Expressway on traffic congestion and air pollution.  
 - [Master Thesis: Biomarker Selection in Liver and Breast Cancer](https://github.com/tirdod/Master-Thesis-Biomarker-Selection-in-Liver-and-Breast-Cancer) — Genomic feature selection for rare tumor detection.  
 - [Text Mining Project](https://github.com/mariasimakova/tm_project1) — Studied the effect of the Primavera Sound festival on rental prices in Barcelona using Booking.com data, with Valencia as the control group.  
 - [Deep Learning Project: SAM Segmentation](https://github.com/victorsobottka/Deep_Learning_FinalProject) — Applied the Segment Anything Model (SAM) for tumor detection in ultrasound images.  
 
-## 🧰 Languages and Tools  
+## Languages and Tools  
 
 **Core Skills**  
 - Data Science, Machine Learning, Statistics, Econometrics, Deep Learning, Causal Inference, Geospatial Data Science  
@@ -42,6 +42,6 @@ Driven by curiosity, I enjoy uncovering insights from complex data and applying 
 - `igraph`, `nltk`, `spacy`  
 - `tidyverse`, `ggplot2`, `sf`  
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 - **Email**: elisa.scocco@gmail.com  
 - **LinkedIn**: [Elisa Scocco](https://www.linkedin.com/in/elisa-scocco-7025312a7/)  
