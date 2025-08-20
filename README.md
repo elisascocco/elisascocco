@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a data scientist and economist with experience in consulting, logistics, and program management.  
-Driven by curiosity, I enjoy uncovering insights from complex data and applying them to real-world problems and policy challenges.  
+I like poking at messy datasets until they reveal something useful (or at least interesting).  
 
 ## Education  
 - Master in Data Science Methodology — Barcelona School of Economics (2024–2025)  
