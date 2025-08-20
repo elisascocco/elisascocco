@@ -26,7 +26,9 @@ Driven by curiosity, I enjoy uncovering insights from complex data and applying 
 - [Nairobi Pollution](https://github.com/dime-worldbank/nairobi-pollution) — Analyzed the short-term effects of the Nairobi Expressway on traffic congestion and air pollution.  
 - [Master Thesis: Biomarker Selection in Liver and Breast Cancer](https://github.com/tirdod/Master-Thesis-Biomarker-Selection-in-Liver-and-Breast-Cancer) — Genomic feature selection for rare tumor detection.  
 - [Text Mining Project](https://github.com/mariasimakova/tm_project1) — Studied the effect of the Primavera Sound festival on rental prices in Barcelona using Booking.com data, with Valencia as the control group.  
-- [Deep Learning Project: SAM Segmentation](https://github.com/victorsobottka/Deep_Learning_FinalProject) — Applied the Segment Anything Model (SAM) for tumor detection in ultrasound images.  
+- [Deep Learning Project: SAM Segmentation](https://github.com/victorsobottka/Deep_Learning_FinalProject) — Applied the Segment Anything Model (SAM) for tumor detection in ultrasound images.
+- [Text Mining Project: Stand-up Comedy & Language](https://github.com/ThePepperShaker/text-mining-final-project) — Explored how language reflects identity by analyzing stand-up comedy transcripts.  
+
 
 ## Languages and Tools  
 
